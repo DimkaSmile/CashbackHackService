@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5fa726-f888-4e2a-83c0-8dd8cabe52fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1d5fa726-f888-4e2a-83c0-8dd8cabe52fc" name="Changes" comment="testng commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
     "last_directory_selection": "K:/testing/netology/Automated_testing/1_1/CashbackHacker/src/test/java"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.shouldCashbackHackService">
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.shouldCashbackHackService (1)">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -88,7 +85,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="CashbackHackServiceTest.shouldCashbackHackService" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CashbackHackServiceTest.shouldCashbackHackService (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -134,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CashbackHackServiceTest.shouldCashbackHackService" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.shouldCashbackHackService (1)" />
         <item itemvalue="Gradle.CashbackHacker [test]" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
       </list>
@@ -149,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659374723927</updated>
     </task>
+    <task id="LOCAL-00001" summary="testng commit">
+      <created>1659379144249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659379144249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testng commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng commit" />
   </component>
 </project>
